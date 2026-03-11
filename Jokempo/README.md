@@ -24,3 +24,5 @@ Vinicius Henrique — RM556908
 Enzo Dias — RM558225
 
 Gustavo Pierre — RM558928
+
+Gabriel Dias - Rm551669
